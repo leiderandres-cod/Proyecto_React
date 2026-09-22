@@ -1,0 +1,2 @@
+build = {base = "react705-4", command = "npm run build", publish = "react705-4/dist"}
+redirects = [{from = "/*", to = "/index.html", status = 200}]
